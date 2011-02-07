@@ -65,11 +65,11 @@ GEM
     rspec-expectations (2.1.0)
       diff-lcs (~> 1.1.2)
     rspec-mocks (2.1.0)
-    sinatra (1.1.0)
+    sinatra (1.1.2)
       rack (~> 1.1)
-      tilt (~> 1.1)
+      tilt (~> 1.2)
     stringex (1.1.0)
-    tilt (1.1)
+    tilt (1.2.2)
     uuidtools (2.1.1)
 
 PLATFORMS
